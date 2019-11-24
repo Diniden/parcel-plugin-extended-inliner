@@ -1,0 +1,9 @@
+{
+  "name": "parcel-plugin-extended-inliner",
+  "version": "1.0.0",
+  "description": "An inliner of html assets for html files with special extensions",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Diniden",
+  "license": "MIT"
+}
