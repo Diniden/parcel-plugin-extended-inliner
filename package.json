@@ -5,5 +5,10 @@
   "main": "index.js",
   "scripts": {},
   "author": "Diniden",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "app-root-path": "3.0.0",
+    "posthtml": "0.12.0",
+    "posthtml-inline-assets": "3.0.0"
+  }
 }
